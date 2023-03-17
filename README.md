@@ -8,7 +8,7 @@ An object-relational mapping challege that uses the back-end for an e-commerce s
 
 ## **Video Example**
 
-(--Insert video link--)
+(https://drive.google.com/file/d/1c2P6b_YZRZBTpuzljJjfW15L16oSPASL/view)
 
   <br/>
 
